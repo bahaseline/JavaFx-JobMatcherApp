@@ -2,13 +2,13 @@
 Job Matcher App is a Java application that helps users find job matches based on their education and preferences. Users can log in, view available jobs, save jobs, and apply for positions. This README provides an overview of the application's functionality and how to use it.
 
 Table of Contents
-# Features
-# Prerequisites
-# Getting Started
-# Usage
-# Contributing
-# License
-# Features
+ Features
+Prerequisites
+Getting Started
+Usage
+Contributing
+License
+Features
 User authentication with username, password, and email.
 View a list of available jobs from a CSV file.
 Save jobs to a personal list.
@@ -37,11 +37,11 @@ Password: admin
 Email: admin@gmail.com
 Explore the following features:
 
-# View Jobs: Browse available job listings and click on a job to see if it's a match for your education.
-# Save Job: Save interesting jobs to your personal list for later reference.
-# Apply for Job: Submit a job application form with your name, email, and resume (upload a file).
-# View Profile: See your user profile information, including name, email, age, education, experience, and skills.
-# Edit Profile: Update your user profile information.
+View Jobs: Browse available job listings and click on a job to see if it's a match for your education.
+Save Job: Save interesting jobs to your personal list for later reference.
+Apply for Job: Submit a job application form with your name, email, and resume (upload a file).
+View Profile: See your user profile information, including name, email, age, education, experience, and skills.
+Edit Profile: Update your user profile information.
 Customize the application by modifying the CSV file (src/jobs.csv) to include your own job listings.
 
 # Contributing
