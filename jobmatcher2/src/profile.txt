@@ -1,0 +1,6 @@
+Name: John Doe
+Email: john.doe@example.com
+Age: 30
+Education: Bachelor's Degree
+Experience: 5 years
+Skills: Java, Python, SQL
